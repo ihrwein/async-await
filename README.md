@@ -7,7 +7,7 @@ Just two macros to emulate a simpre Async and Await using Futures (provided by e
 
 ## Usage
 
-This is availabre in `crates.io`. Add this to your `Cargo.toml`:
+This is availabe in `crates.io`. Add this to your `Cargo.toml`:
 
 ```
 [dependencies]
